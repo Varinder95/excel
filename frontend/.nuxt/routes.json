@@ -1,0 +1,44 @@
+[
+  {
+    "name": "assignData",
+    "path": "/assignData",
+    "component": "/home/sunny/projects/excel-crm-git/frontend/pages/assignData.vue",
+    "chunkName": "pages/assignData",
+    "_name": "_69a69991"
+  },
+  {
+    "name": "Dashboard",
+    "path": "/Dashboard",
+    "component": "/home/sunny/projects/excel-crm-git/frontend/pages/Dashboard.vue",
+    "chunkName": "pages/Dashboard",
+    "_name": "_ae517668"
+  },
+  {
+    "name": "upload",
+    "path": "/upload",
+    "component": "/home/sunny/projects/excel-crm-git/frontend/pages/upload.vue",
+    "chunkName": "pages/upload",
+    "_name": "_cf45634e"
+  },
+  {
+    "name": "uploads",
+    "path": "/uploads",
+    "component": "/home/sunny/projects/excel-crm-git/frontend/pages/uploads.vue",
+    "chunkName": "pages/uploads",
+    "_name": "_76f81dea"
+  },
+  {
+    "name": "reporting-[filename]",
+    "path": "/reporting/%5Bfilename%5D",
+    "component": "/home/sunny/projects/excel-crm-git/frontend/pages/reporting/[filename].vue",
+    "chunkName": "pages/reporting/[filename]",
+    "_name": "_2355bad8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/sunny/projects/excel-crm-git/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_030c37ac"
+  }
+]
